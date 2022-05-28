@@ -9,7 +9,14 @@ The data files were (left) joined to capture a full picture of the ride share de
 
 ## Results 
 ### Ride Sharing Data by City Type
-Three city types were analyzed to determine ride-share use.  The summary chart below indicates that the ride-share program is utilized most in Urban areas.  In a four month time period, Urban rides were  however, Rural drivers have the highest average fare per ride ($34.62) and average fare per driver ($55.49)
+Three city types were analyzed to determine ride-share use.  The chart below indicates that the ride-share program is utilized most in Urban areas.  In a four month time period, there were 1,000 more Urban rides than Suburban rides and 1,500 more than Rural rides.  In addition, Urban drivers make up 80.9% of the total driver population.  Of course, supply and demand may be the cause of this disparity.
+
+![image](https://user-images.githubusercontent.com/102322707/170837066-e23ae22b-3de8-4f40-b30b-44a9f9940e25.png) ![image](https://user-images.githubusercontent.com/102322707/170837146-4242cff9-524b-4585-a706-0150b19ec37d.png)
+
+
+however, Rural drivers have the highest average fare per ride ($34.62) and average fare per driver ($55.49)
+
+
 
 ![image](https://user-images.githubusercontent.com/102322707/170836818-10ad2e4f-6988-42ed-bfba-c9e8bed31006.png)
 
