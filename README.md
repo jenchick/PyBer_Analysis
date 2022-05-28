@@ -9,20 +9,17 @@ The data files were (left) joined to capture a full picture of the ride share de
 
 ## Results 
 ### Ride Sharing Data by City Type
-Three city types were analyzed to determine ride-share use.  The chart below indicates that the ride-share program is utilized most in Urban areas.  In a four month time period, there were 1,000 more Urban rides than Suburban rides and 1,500 more than Rural rides.  In addition, Urban drivers make up 80.9% of the total driver population.  Of course, supply and demand may be the cause of this disparity.
+Three city types were analyzed to determine ride-share use.  The chart below indicates that the ride-share program is utilized most in Urban areas.  In a four month time period, there were 1,000 more Urban rides than Suburban rides and 1,500 more than Rural rides.  In addition, Urban drivers make up 80.9% of the total driver population.  
 
 ![image](https://user-images.githubusercontent.com/102322707/170837066-e23ae22b-3de8-4f40-b30b-44a9f9940e25.png) ![image](https://user-images.githubusercontent.com/102322707/170837146-4242cff9-524b-4585-a706-0150b19ec37d.png)
 
-
-however, Rural drivers have the highest average fare per ride ($34.62) and average fare per driver ($55.49)
-
-
+Surprisingly, Rural drivers have the highest average fare per ride ($34.62) and average fare per driver ($55.49). Supply and demand is most likely a culprit in the disparities between cities, drivers, and fares.
 
 ![image](https://user-images.githubusercontent.com/102322707/170836818-10ad2e4f-6988-42ed-bfba-c9e8bed31006.png)
 
+The following chart shows Total Fare by City Type, indicating that although Rural drivers are making more money per fare, they are not catching enough rides and thus, their income is very low in comparison.
 
-Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type
+![image](https://user-images.githubusercontent.com/102322707/170837489-c00bc6ee-20d0-465c-982b-ee69a49ad08d.png)
 
 ## Summary 
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
