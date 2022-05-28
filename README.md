@@ -14,3 +14,6 @@ There is a statement summarizing three business recommendations to the CEO for a
 - Business Reason 3
 
 ## Resources
+Data Sources: city_data.csv, ride_data.csv
+
+Software: jupyter notebook, Python 3.7 (64-bit), pandas
